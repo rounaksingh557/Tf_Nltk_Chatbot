@@ -1,0 +1,11 @@
+{
+    "python.formatting.provider": "black",
+    "cSpell.words": [
+        "argmax",
+        "crossentropy",
+        "keras",
+        "nltk",
+        "relu",
+        "softmax"
+    ]
+}
