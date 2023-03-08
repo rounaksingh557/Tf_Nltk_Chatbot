@@ -1,7 +1,7 @@
 <h1 align="center">Python Basic Chatbot</h1>
 <br>
 
-> This is a basic python chatbot.
+> This is a basic python chatbot. (Home Work Version)
 
 > Made using [NLTK](https://www.nltk.org/) and [Tensorflow](https://www.tensorflow.org/)
 
