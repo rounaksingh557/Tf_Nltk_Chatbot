@@ -1,9 +1,11 @@
 # Folders
-__pycache__
-bin
-lib
+/__pycache__
+/bin
+/lib
+/lib64
 
 #Files
 chatbot_model.h5
 classes.pkl
 words.pkl
+pyvenv.cfg

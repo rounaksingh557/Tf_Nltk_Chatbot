@@ -15,7 +15,7 @@ def train_bot_model(train_x, train_y):
         loss="categorical_crossentropy", optimizer="adam", metrics=["accuracy"]
     )
 
-    history = model.fit(train_x, train_y, epochs=200, batch_size=5, verbose=True)
+    history = model.fit(train_x, train_y, epochs=500, batch_size=5, verbose=True)
     model.save("chatbot_model.h5", history)
     print("Model File Created & Saved")
 

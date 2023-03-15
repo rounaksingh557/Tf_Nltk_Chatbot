@@ -56,5 +56,9 @@ while True:
     user_input = input("Type your message here:")
     print("User Input: ", user_input)
 
+    if user_input == "exit":
+        print('Shutting Down Program.')
+        break
+
     response = bot_response(user_input)
     print("Bot Response: ", response)
